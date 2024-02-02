@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: black;
+}
+
+.articles a {
+    color: black;
+    text-decoration: none;
+}
+
+.articles a:hover {
+    text-decoration: underline;
+}
+
+.articles li {
+    margin-bottom: 10px;
+}
